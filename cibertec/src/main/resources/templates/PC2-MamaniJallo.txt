@@ -1,0 +1,8 @@
+Get
+http://localhost:8050/url/salario/listarSalarios
+Delete
+http://localhost:8050/url/salario/eliminarSalario/1
+Put
+http://localhost:8050/url/salario/actualizarSalario
+Post
+http://localhost:8050/url/salario/registrarSalario
